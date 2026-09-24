@@ -1,0 +1,6 @@
+{
+  "name": "ArthaCrypt - IKS Cryptography & Analysis Platform",
+  "description": "An interactive cryptography learning and cryptanalysis platform mapping Kautilya's Arthaśāstra secret communication to classical ciphers and modern AES-GCM encryption with frequency cryptanalysis and brute-force simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
